@@ -2,6 +2,8 @@
 
 A simple web interface for interacting with the OlympicCoder-7B model, a 7B parameter code generation model.
 
+![OlympicCoder-7B UI Screenshot](images/ui-screenshot.png)
+
 ## Features
 
 - User-friendly web interface built with Streamlit
